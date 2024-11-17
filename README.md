@@ -59,13 +59,12 @@ vi /etc/hostname
 cat /etc/hostname
 ```
 ## OUTPUT
+### REG NUMBER: 212223110032
+### NAME: Nirosha M
+
 ![clc](https://github.com/user-attachments/assets/d95f9599-83d4-4112-bb53-8b98b9a1292c)
 ![Screenshot 2024-11-17 181847](https://github.com/user-attachments/assets/2a8a399b-8c07-45e2-8673-8db001bdd10d)
 
-### REG NUMBER: 212223110032
-### NAME: Nirosha M
- 
- Include your Screenshots Here.
 ## RESULT
  Successfully installed CentOS on a virtual machine using VirtualBox or VMware, providing a fully functional CentOS environment for testing and development.
 
