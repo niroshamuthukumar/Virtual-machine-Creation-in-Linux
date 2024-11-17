@@ -67,7 +67,7 @@ cat /etc/hostname
  
  Include your Screenshots Here.
 ## RESULT
- 
+ Successfully installed CentOS on a virtual machine using VirtualBox or VMware, providing a fully functional CentOS environment for testing and development.
 
   
 
